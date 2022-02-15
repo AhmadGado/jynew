@@ -14,3 +14,4 @@
 ## 本项目耻辱榜
 
 [耻辱榜](https://github.com/jynew/jynew/wiki/%E8%80%BB%E8%BE%B1%E6%A6%9C)
+Abc
